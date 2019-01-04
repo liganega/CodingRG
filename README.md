@@ -38,7 +38,7 @@ SNS를 활용하면 10분 안에 수십, 수백명의 답변자를 만날 수 �
 * 질문을 하기 전에 
   [Issues 사이트](https://github.com/liganega/CodingRG/issues)의 
   [Open](https://github.com/liganega/CodingRG/issues?q=is%3Aopen+is%3Aissue) 탭과 
-  [Closed](https://github.com/liganega/CodingRG/issues?q=is%3Aopen+is%3Aissue) 탭 모두에서 검색을 하세요.
+  [Closed](https://github.com/liganega/CodingRG/issues?q=is%3Aissue+is%3Aclosed) 탭 모두에서 검색을 하세요.
 
 ## 질문하는 곳
 * 이곳에서 하세요: https://github.com/liganega/CodingRG/issues
