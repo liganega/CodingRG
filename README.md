@@ -30,7 +30,7 @@ SNS를 활용하면 10분 안에 수십, 수백명의 답변자를 만날 수 �
 * 질문은 하나씩 하세요.
 * 질문이 어떻게 발생했는지 설명하세요.
 
-## 질문/답변/종료
+## 이곳에서 질문/답변/종료 하기
 * 질문을 하기 전에 
   [Issues 사이트](https://github.com/liganega/CodingRG/issues)의 
   [Open](https://github.com/liganega/CodingRG/issues?q=is%3Aopen+is%3Aissue) 탭과 
