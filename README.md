@@ -4,7 +4,7 @@
 # 활용
 스터디 동아리 회원들의 코드와 질문/답변을 공유하는 곳입니다.
 
-# 질문은 어떻게?
+# 공부와 질문
 공부는 기본적으로 질문의 기술을 배우는 과정입니다. 
 요즘엔 질문의 답은 주로 인터넷 검색을 이용하는 것이 가장 효율적입니다. 
 검색엔진을 잘 이용하면 몇 분 안에 원하는 검색결과를 얻을 수 있습니다. 
@@ -41,5 +41,5 @@ SNS를 활용하면 10분 안에 수십, 수백명의 답변자를 만날 수 �
   [Closed](https://github.com/liganega/CodingRG/issues?q=is%3Aissue+is%3Aclosed) 탭 모두에서 검색을 하세요.
 
 ## 질문하는 곳
-* 이곳에서 하세요: https://github.com/liganega/CodingRG/issues
-* 로그인이 필요합니다!
+* 먼저 Github 계정으로 로그인이 필요합니다!
+* 질문은 여기서: https://github.com/liganega/CodingRG/issues
