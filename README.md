@@ -33,12 +33,12 @@ SNS를 활용하면 10분 안에 수십, 수백명의 답변자를 만날 수 �
 ## 코드첨부
 코드를 첨부할 때 ``` 기호를 코드 앞 뒤에 추가하면 됩니다.
 
-## 질문/답변 종료
-* 모든 궁금증이 해소 되었다고 생각되면 Close 버튼을 눌러주세요.
+## 질문/답변/종료
 * 질문을 하기 전에 
   [Issues 사이트](https://github.com/liganega/CodingRG/issues)의 
   [Open](https://github.com/liganega/CodingRG/issues?q=is%3Aopen+is%3Aissue) 탭과 
   [Closed](https://github.com/liganega/CodingRG/issues?q=is%3Aissue+is%3Aclosed) 탭 모두에서 검색을 하세요.
+* 모든 궁금증이 해소 되었다고 생각되면 Close 버튼을 눌러주세요.
 
 ## 질문하는 곳
 * 먼저 Github 계정으로 로그인이 필요합니다!
