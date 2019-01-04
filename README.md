@@ -35,7 +35,7 @@ SNS를 활용하면 10분 안에 수십, 수백명의 답변자를 만날 수 �
 
 ## 질문/답변 종료
 * 모든 궁금증이 해소 되었다고 생각되면 __close__ 버튼을 눌러주세요.
-* 질문을 하기 전에 __open issues__와 __close issues__에서 일단 검색을 하세요.
+* 질문을 하기 전에 Issues 사이트의 __Open__ 과 __Closed__ 탭 모두에서 검색을 하세요.
 
 ## 질문하는 곳
 * 이곳에서 하세요: https://github.com/liganega/CodingRG/issues
